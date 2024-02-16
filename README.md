@@ -5,7 +5,7 @@
 - npm install
 - npm start
 
-## Cosa hai appreso
+## Skills
 - Creating projects in React.js
 - Basic setup
 - Creating interface
