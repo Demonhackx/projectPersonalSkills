@@ -15,5 +15,6 @@
 - CSS
 - HTML
 
-## Link Udemy
+## Thanks to Udemy for the Course
+### Link Udemy
 https://www.udemy.com/course/reactjs-in-italiano-teoria-base-hooks-10-progetti/
